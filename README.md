@@ -1,4 +1,4 @@
-# TFG Ruben Gimbert Game
+# TFG Ruben Gimbert - Game
 
 En aquest projecte es troba l'escena 3D en la qual s'ha desenvolupat el joc. La versió de l'editor de Unity utilitzada és la 2021.3.25f1. Si intentem obrir el projecte des de Unity, ens hauria de sortir l'opció de descarregar aquesta versió. Sinó, es pot descarregar una versió igual o superior des de la pestanya Installs de Unity i obrir el projecte. En un principi, el projecte ja hauria d'estar configurat de manera que es pot executar el joc emulant el dispositiu VR. Sinó, a Project Settings > XR Plug-in Management hem de tenir l'opció Mock MHD Loader activada a la pestanya d'Escriptori.
 
