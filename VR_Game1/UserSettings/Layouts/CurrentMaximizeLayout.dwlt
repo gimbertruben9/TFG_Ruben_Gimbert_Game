@@ -25,7 +25,7 @@ MonoBehaviour:
   m_MinSize: {x: 300, y: 200}
   m_MaxSize: {x: 24288, y: 16192}
   vertical: 0
-  controlID: 72
+  controlID: 83
 --- !u!114 &2
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -144,7 +144,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 73
+  controlID: 84
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -431,9 +431,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -33.667667, y: -14.455118, z: 15.59775}
+    m_Target: {x: -19.561806, y: -10.077524, z: 33.123573}
     speed: 2
-    m_Value: {x: -33.667667, y: -14.455118, z: 15.59775}
+    m_Value: {x: -19.561806, y: -10.077524, z: 33.123573}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -480,13 +480,13 @@ MonoBehaviour:
     m_GridAxis: 1
     m_gridOpacity: 0.5
   m_Rotation:
-    m_Target: {x: -0.1628633, y: 0.52381456, z: -0.10280998, w: -0.82977635}
+    m_Target: {x: -0.13158372, y: 0.26051113, z: -0.035863366, w: -0.9557924}
     speed: 2
-    m_Value: {x: -0.16286291, y: 0.5238133, z: -0.102809735, w: -0.8297744}
+    m_Value: {x: -0.13158335, y: 0.26051039, z: -0.03586326, w: -0.9557897}
   m_Size:
-    m_Target: 21.187523
+    m_Target: 21.320461
     speed: 2
-    m_Value: 21.187523
+    m_Value: 21.320461
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -561,7 +561,7 @@ MonoBehaviour:
   m_MinSize: {x: 100, y: 200}
   m_MaxSize: {x: 8096, y: 16192}
   vertical: 1
-  controlID: 113
+  controlID: 107
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -623,7 +623,7 @@ MonoBehaviour:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: 26fbffff2afbffff626f00007c6f0000b46f0000707000008a700000
+      m_ExpandedIDs: 2afbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -716,21 +716,21 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/Scripts
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 16
   m_LastFolders:
-  - Assets
+  - Assets/Scripts
   m_LastFoldersGridSize: 16
-  m_LastProjectPath: /Users/rubengimbertroldan/Documents/Informatica/Cuarto/TFG/VR_Game1
+  m_LastProjectPath: /Users/rubengimbertroldan/Documents/Informatica/Cuarto/TFG/Proyecto-Github/TFG_Ruben_Gimbert_Game/VR_Game1
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 30730000
-    m_LastClickedID: 29488
+    m_SelectedIDs: 1a790000
+    m_LastClickedID: 31002
     m_ExpandedIDs: 0000000030730000327300003473000036730000387300003a7300003c73000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
@@ -803,7 +803,7 @@ MonoBehaviour:
       m_IsRenaming: 0
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
-      m_ClientGUIView: {fileID: 10}
+      m_ClientGUIView: {fileID: 0}
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
